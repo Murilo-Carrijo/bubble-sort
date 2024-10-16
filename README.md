@@ -14,10 +14,10 @@
 
 1. Clone the repository
 
-- `git@github.com:Murilo-Carrijo/stock-picker.git`
+- `git@github.com:Murilo-Carrijo/bubble-sort.git`
 - Enter the repository folder you just cloned:
-  - `cd stock-picker`
+  - `cd bubble-sort`
 
 2. Run the project
 
-- `ruby stock_picker.rb`
+- `ruby bubble_sort.rb`
